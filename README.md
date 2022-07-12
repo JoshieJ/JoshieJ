@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshieJ
+- 👋 Hi, I’m @Josh
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in the future on beginner Python, SQL, and R project.
